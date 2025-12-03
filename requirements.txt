@@ -1,4 +1,7 @@
 pandas
+openpyxl
+pandas
+streamlit
 numpy
 scikit-learn
 streamlit
